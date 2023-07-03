@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepsol718
 - 👀 I’m interested in Internet of Things, Machine learning and App development.
-- 🌱 I’m currently learning JAVA, SQL, MSBI.
+- 🌱 I’m currently learning JAVA, SQL, JS, PHP, SPRING BOOT, REACT.
 - 💞️ I’m looking to collaborate on Open Source Projects by writing codes.
 - 📫 How to reach me deepaksolanki9759@gmail.com
 
